@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simple-discord-weebhook/static/css/main.0b49a71d.chunk.css",
+    "main.js": "/simple-discord-weebhook/static/js/main.3fd3e5f5.chunk.js",
+    "main.js.map": "/simple-discord-weebhook/static/js/main.3fd3e5f5.chunk.js.map",
+    "runtime-main.js": "/simple-discord-weebhook/static/js/runtime-main.38269a91.js",
+    "runtime-main.js.map": "/simple-discord-weebhook/static/js/runtime-main.38269a91.js.map",
+    "static/js/2.43e1b183.chunk.js": "/simple-discord-weebhook/static/js/2.43e1b183.chunk.js",
+    "static/js/2.43e1b183.chunk.js.map": "/simple-discord-weebhook/static/js/2.43e1b183.chunk.js.map",
+    "static/js/3.e4c83787.chunk.js": "/simple-discord-weebhook/static/js/3.e4c83787.chunk.js",
+    "static/js/3.e4c83787.chunk.js.map": "/simple-discord-weebhook/static/js/3.e4c83787.chunk.js.map",
+    "index.html": "/simple-discord-weebhook/index.html",
+    "static/css/main.0b49a71d.chunk.css.map": "/simple-discord-weebhook/static/css/main.0b49a71d.chunk.css.map",
+    "static/js/2.43e1b183.chunk.js.LICENSE.txt": "/simple-discord-weebhook/static/js/2.43e1b183.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38269a91.js",
+    "static/js/2.43e1b183.chunk.js",
+    "static/css/main.0b49a71d.chunk.css",
+    "static/js/main.3fd3e5f5.chunk.js"
+  ]
+}
